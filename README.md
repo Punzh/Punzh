@@ -70,18 +70,6 @@
   </h2><br>
 <b>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M6xbom1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose&locale=en&hide_border=true&order=1&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M6xbom1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&bg_color=00000000&hide=jupyter%20notebook" height="150" alt="languages graph" />
-</div>
-
-  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)-->
-  <h2> 💻 Languages and Tools </h2><br>
-
-  [![My Skills](https://skillicons.dev/icons?i=splunk,FortiSoar,python,java,c,cs,html,css,js,php,unity,aws,mysql,linux,nodejs,mongodb)](https://skillicons.dev)
-
-<b>
   <h2>
     <img src="icon+img\telephone.png">&nbsp Contact me 
   </h2><br>
