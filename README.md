@@ -65,10 +65,6 @@
   [![My Skills](https://skillicons.dev/icons?i=splunk,FortiSoar,python,java,c,cs,html,css,js,php,unity,aws,mysql,linux,nodejs,mongodb)](https://skillicons.dev)
 
 <b>
-  <h2>
-    <img src="icon+img\telephone.png">&nbsp Contact me 
-  </h2><br>
-<b>
 
   <h2>
     <img src="icon+img\telephone.png">&nbsp Contact me 
