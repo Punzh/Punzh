@@ -147,7 +147,7 @@
   <a href=""><img src="[https://cdn.discordapp.com/attachments/1271735568488988704/1318163983114702879/22D820E3-8BA2-46CF-9B96-FFE533D39C71.gif?ex=6761535f&is=676001df&hm=0107e4a4291e0af6496661c7fea0b33a589943cb6a43eac78bc13724e3184bee&]"/></a> 
  
   <br><hr>
-    <div align="center"> ✉️ phantipha.sripadupwong@g.swu.ac.th  &nbsp&nbsp&nbsp &nbsp </div>
+    <div align="center"> ✉️ phantipha.sripadupwong@g.swu.ac.th  </div>
   <br><br>
   <div align="center"><a href="https://www.linkedin.com/in/thanakit-chatwichian-95a9a2277/"><img src="icon+img\linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/M6xbom1"><img src="icon+img\github.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.facebook.com/profile.php?id=100007560886499"><img src="icon+img\facebook.png" width="32px" height="32px"></a> &nbsp; &nbsp;<a href="https://www.instagram.com/tnkitty_/"><img src="icon+img\instagram.png" width="32px" height="32px"></a> &nbsp; &nbsp;<a href="https://www.hackerrank.com/profile/m6xbom1"><img src="icon+img\Hacker rank.png" width="32px" height="32px"></a> &nbsp; &nbsp; </div>
 </p>
