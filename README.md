@@ -72,7 +72,7 @@
 <b>
 
 <p align="center">
-  <img hight="400" width="500" alt="GIF" align="center" src="Love.gif" width="50%"/> 
+  <img alt="GIF" src="Love.gif" width="50%"/> 
  
   <br><hr>
     <div align="center"> ✉️ phantipha.sripadupwong@g.swu.ac.th  </div>
