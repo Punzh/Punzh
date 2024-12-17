@@ -67,7 +67,7 @@
 <b>
 
   <h2>
-    <img src="icon+img\telephone.png">&nbsp Contact me 
+    📞 Contact me 
   </h2><br>
 <b>
 
