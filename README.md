@@ -56,6 +56,7 @@
 
 
 ![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)-->
   <h2> 💻 Languages and Tools </h2><br>
