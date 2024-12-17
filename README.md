@@ -56,7 +56,7 @@
 
 
 ![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punzh&layout=compact&theme=dark)](https://github.com/Punzh)
+
 
 
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)-->
