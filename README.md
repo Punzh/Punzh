@@ -22,9 +22,9 @@
   </h3>
     <img hight="400" width="500" alt="GIF" align="right" src="Rabbit.gif" width="50%"/>
     <i>&nbsp&nbsp• Sarasas Pittaya school [Sci-Math]
-    &nbsp<img src="icon+img\school_icon.png"><br>
-    &nbsp&nbsp• Srinakharinwirot University [Com-Sci]
-    &nbsp<img src="icon+img\swu_icon.png"><br></i>
+    &nbsp<br>
+    &nbsp&nbsp• Srinakharinwirot University [Data Engineering]
+    &nbsp</i>
   <h3>
     <b>
       <u>Interests</u> ☕<br>
@@ -72,7 +72,6 @@
 <b>
 
 <p align="center">
-  <a href=""><img src="https://Love.gif" width="200"/></a> 
   <br><hr>
     <div align="center"> ✉️ phantipha.sripadupwong@g.swu.ac.th  </div>
   </br></br>
