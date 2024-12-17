@@ -27,7 +27,7 @@
     &nbsp</i>
   <h3>
     <b>
-      <u>Interests</u> ☕<br>
+      <u>Interests</u>🌼<br>
     <b>
   </h3>
     <i>
