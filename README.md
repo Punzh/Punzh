@@ -55,7 +55,7 @@
 </p><br>
 
 
-![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=transparent)
+![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=radical)
 
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)-->
   <h2> 💻 Languages and Tools </h2><br>
