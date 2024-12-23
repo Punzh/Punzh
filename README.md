@@ -67,8 +67,7 @@
 
   <h2>
     📞 Contact me 
-  </h2><br>
-<b>
+  </h2>
 
 <p align="center">
   <br><hr>
