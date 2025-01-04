@@ -26,9 +26,10 @@
     &nbsp&nbsp• Srinakharinwirot University [Data Engineering]
     &nbsp</i>
   
-    </i>⚙️<br>
+    </i>😃<br>
     <i>
-      &nbsp&nbsp • DevOps
+      &nbsp&nbsp I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical experience
+แปลไทย
     </i>💻<br>
    
 
