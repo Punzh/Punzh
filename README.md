@@ -27,10 +27,11 @@
     &nbsp</i>
   
     </i>😃<br>
-    <i>
-      &nbsp&nbsp I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical experience
-แปลไทย
-    </i>💻<br>
+    <h3>
+      <b>
+      <u> I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical.</u>
+      <b>
+    </h3>
    
 
 
