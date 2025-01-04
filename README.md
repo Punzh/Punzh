@@ -25,34 +25,12 @@
     &nbsp<br>
     &nbsp&nbsp• Srinakharinwirot University [Data Engineering]
     &nbsp</i>
-  <h3>
-    <b>
-      <u>Interests</u>🌼<br>
-    <b>
-  </h3>
-    <i>
-      &nbsp • Cyber security
-    </i>🛡️
-      <br>
-    <i>
-      &nbsp &nbsp &nbsp &nbsp- Network Security Engineer<br>
-      &nbsp &nbsp &nbsp &nbsp- Penetration Tester<br>
-      &nbsp &nbsp &nbsp &nbsp- Security Analyst<br>
-    </i>
-    <i>
-      &nbsp&nbsp • Software Engineer
+  
     </i>⚙️<br>
     <i>
       &nbsp&nbsp • DevOps
     </i>💻<br>
-    <i>
-      &nbsp&nbsp • What I do now ? 🌱
-    </i><br>
-    <i>
-    &nbsp &nbsp &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspisn't just learning, it's a thrilling &nbsphunt for 
-    solutions, and I'm determined to join the front lines.
-    </i>
-</p><br>
+   
 
 
 ![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=radical)
