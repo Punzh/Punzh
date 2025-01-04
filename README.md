@@ -14,6 +14,11 @@
     <h2>
       🔭&nbsp About me 
     </h2>
+      </i><br>
+    <i>
+    &nbsp &nbsp &nbsp &nbsp - I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical.
+    </i>
+   
   <b>
   <h3>
     <b>
@@ -27,17 +32,6 @@
     &nbsp</i>
 
   
-  </i><br>
-    <i>
-    &nbsp &nbsp &nbsp &nbsp - I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical.
-    </i>
-  
-    </i>😃<br>
-    <h3>
-      <b>
-      <u> I am a Data Engineering student at Srinakharinwirot University with a strong interest in web development and program design. I have basic knowledge of programming languages such as Java, JavaScript, and Python, and have gained exposure to various frameworks. I am motivated to expand my skills through practical.</u>
-      <b>
-    </h3>
    
 
 
