@@ -30,9 +30,17 @@
     &nbsp<br>
     &nbsp&nbsp• Srinakharinwirot University [Data Engineering]
     &nbsp</i>
+  <h3>
+    <b>
+      <u>🎈Interests 🎨<img width="140" alt="image" src="https://github.com/user-attachments/assets/058a0ee6-50e1-48f8-838a-fb3dda395515" />
+</u><br>
+    <b>
+  </h3>
+	<i>&nbsp&nbsp•	Interested in developing web applications (Frontend/Backend). &nbsp<br>
+	<i>&nbsp&nbsp•	Passionate about UI/UX design and crafting user experiences. &nbsp<br>
+	<i>&nbsp&nbsp•	Interested in data analytics and machine learning. &nbsp<br>
+	<i>&nbsp&nbsp•	Enthusiastic about working in cloud computing and DevOps. &nbsp<br>
 
-  
-   
 
 
 ![Punzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punzh&show_icons=true&theme=radical)
