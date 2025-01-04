@@ -12,7 +12,7 @@
 <p>
   <b>
     <h2>
-      🔭&nbsp About me 
+      🎀&nbsp About me 
     </h2>
       </i><br>
     <i>
