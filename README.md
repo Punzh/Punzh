@@ -22,7 +22,7 @@
   <b>
   <h3>
     <b>
-      <u>📚Educations</u><br>
+      <u>📚&nbsp Educations</u><br>
     <b>
   </h3>
     <img hight="400" width="500" alt="GIF" align="right" src="Rabbit.gif" width="50%"/>
